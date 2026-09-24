@@ -1,29 +1,24 @@
 manifestVersion: 1
 id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+name: MCSManager
+tagline: Manage your Minecraft servers from one web panel
+icon: https://raw.githubusercontent.com/MCSManager/MCSManager/master/frontend/public/favicon.svg
 category: Development
 version: "1.0.0"
-port: 4000
+port: 3000
 description: >-
-  Add your app's description here.
+  MCSManager is a lightweight, open-source Minecraft server management panel.
+  Create, configure, monitor, and manage multiple Minecraft servers from a
+  single web interface.
 
-
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
-gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+developer: MCSManager
+website: https://mcsmanager.com
+submitter: hgnthndmfhkmd
+submission: https://github.com/hgnthndmfhkmd/MCSManager-umbrel
+repo: https://github.com/MCSManager/MCSManager
+support: https://github.com/MCSManager/MCSManager/issues
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Initial Umbrel app configuration for MCSManager.
 dependencies: []
 path: ""
 defaultUsername: ""
